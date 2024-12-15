@@ -1,2 +1,2 @@
-[!NOTE]
-Privacy policy for MExplorer Android-app
+>[!NOTE]
+>Privacy policy for MExplorer Android-app
