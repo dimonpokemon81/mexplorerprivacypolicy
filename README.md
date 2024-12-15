@@ -1,1 +1,1 @@
-# Privacy policy
+# Privacy policy for MExplorer Android-app
